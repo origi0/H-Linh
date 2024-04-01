@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Gửi Hà Linh 😖",
     introTitle: 'Phạm Hà Linh',
-    introDesc: `Google thì có đường link, còn mik thì chỉ có một mình Linh thôi.`,
+    introDesc: `Google thì có đường link, còn mik chỉ có một mình Linh thôi.`,
     btnIntro: '^^UwU^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
